@@ -1,0 +1,5 @@
+Jazzerator.
+Jamie Henson, 2012.
+
+A program to make jazz dynamically.
+Currently it can do a very simple straight drum beat with a walking bass line in an octave of keys - with dynamic tempo and instrument toggling.
